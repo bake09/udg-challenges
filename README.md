@@ -16,7 +16,10 @@ Folgende Technologien / Frameworks setze ich in meinem Projekt ein:
 
 - JavaScript / VueJS
 
-Ich habe mich für VueJS entschieden, wwgen seiner leichten Syntax.
+Ich habe mich für VueJS entschieden, weil
+
+- leichte Syntax
+- Performance und Reaktivität
 
 ## Eingesetzte 3rd Party Libraries
 
