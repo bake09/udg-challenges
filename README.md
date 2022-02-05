@@ -2,8 +2,10 @@
 
 UDG CodeChallenges 1-3
 
-1 - Pixel Art 
-2 - Meme Generator 
+1 - Pixel Art
+
+2 - Meme Generator
+
 3 - CSV Verarbeitung
 
 # Aufgabenergebnis
