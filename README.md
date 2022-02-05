@@ -2,25 +2,9 @@
 
 UDG CodeChallenges 1-3
 
-## Install the dependencies
-```bash
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-
+1 - Pixel Art 
+2 - Meme Generator 
+3 - CSV Verarbeitung
 
 # Aufgabenergebnis
 
@@ -43,12 +27,6 @@ Name | Begründung
 
 ## Installation / Ausführen des Projektes
 
-Beschreibe, wie wir uns das Projekt lokal anschauen können.
-
-Zum Beispiel:
-
----
-
 Folgende Komponenten müssen lokal installiert sein:
 
 - [nodejs](https://nodejs.org/en/) v13.2.0
@@ -60,6 +38,6 @@ Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
 $ git clone <linktorepository> udg-probeaufgabe
 $ cd udg-probeaufgabe
 $ npm install
-$ npm run start
+$ quasar dev
 ```
 ---
