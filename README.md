@@ -34,8 +34,7 @@ Name | Begründung
 
 Folgende Komponenten müssen lokal installiert sein:
 
-- [nodejs](https://nodejs.org/en/) v13.2.0
-- [.NET Core](https://dotnet.microsoft.com/download) v3.1
+- [nodejs](https://nodejs.org/en/) > v12
 
 Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
 
