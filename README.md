@@ -28,20 +28,18 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 Folgende Technologien / Frameworks setze ich in meinem Projekt ein:
 
-- JavaScript / jQuery
-- PHP / Symfony
-- ...
+- JavaScript / VueJS
 
-Ich habe mich für jQuery entschieden, weil ...
+Ich habe mich für VueJS entschieden, wwgen seiner leichten Syntax.
 
 ## Eingesetzte 3rd Party Libraries
 
-Ich setze in meinem Projekt die folgenden 3rd Party Libraries ein: (falls keine, Tabelle entfernen und begründen warum)
+Ich setze in meinem Projekt die folgenden 3rd Party Libraries ein:
 
 Name | Begründung
 --- | ---
-[moment.js](https://momentjs.com/) | Zur Berechnung von Datumswerten und Umwandlung von Formaten.
-[Bootstrap](https://getbootstrap.com/) | Einfaches RWD Framework zur Gestaltung des Frontends
+[quasarFramework](https://quasar.dev/) | Moderne & vielfätige UI-Library&mehr... für Vue.js
+[appexcharts](https://apexcharts.com/) | Moderne & Interaktive Open-source Charts
 
 ## Installation / Ausführen des Projektes
 
