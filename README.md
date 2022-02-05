@@ -27,7 +27,7 @@ Ich setze in meinem Projekt die folgenden 3rd Party Libraries ein:
 
 Name | Begründung
 --- | ---
-[quasarFramework](https://quasar.dev/) | Moderne & vielfätige UI-Library&mehr... für Vue.js
+[quasarFramework](https://quasar.dev/) | Moderne & vielfätige UI-Library & mehr...
 [appexcharts](https://apexcharts.com/) | Moderne & Interaktive Open-source Charts
 
 ## Installation / Ausführen des Projektes
