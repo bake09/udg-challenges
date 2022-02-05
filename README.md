@@ -2,7 +2,7 @@
 
 alle 3 Probeaufgaben in einem Projekt
 
-1 - Pixel Art (Features = MobileApp-Ready, touch-support)(Vorbereitet: Aufteilung in eigenes VUEX-Store-modul)
+1 - Pixel Art (Features = MobileApp-Ready, touch-support), (Vorbereitet: Aufteilung in eigenes VUEX-Store-modul)
 
 2 - Meme Generator (Features = MobileApp-Ready, dynamische TextRandFarbe abhängig von der TextFarbe)
 
