@@ -2,14 +2,14 @@
 
 alle 3 Probeaufgaben in einem Projekt
 
-1 - Pixel Art (Features = MobileApp-Ready, touch-support, )
+1 - Pixel Art (Features = MobileApp-Ready, touch-support)
 
 2 - Meme Generator (Features = MobileApp-Ready, dynamische TextRandFarbe abhängig von der TextFarbe)
 
 3 - CSV Verarbeitung (Features = Complete - CRUD, Dynamische Formular aus CSV-Tabellenköpfen)
 
 # LiveDemo
-[live-demo](https://bake09.github.io/demo-udg-challenges)
+[Demo-GesamtesProjekt](https://bake09.github.io/demo-udg-challenges)
 
 
 # Aufgabenergebnis
