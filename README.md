@@ -1,12 +1,12 @@
 # UDG CodeChallenges 1-3 (udg)
 
-UDG CodeChallenges 1-3
+alle 3 Probeaufgaben in einem Projekt
 
-1 - Pixel Art
+1 - Pixel Art (Features = MobileApp-Ready, touch-support, )
 
-2 - Meme Generator
+2 - Meme Generator (Features = MobileApp-Ready, dynamische TextRandFarbe abhängige der TextFarbe)
 
-3 - CSV Verarbeitung
+3 - CSV Verarbeitung (Features = Complete - CRUD, Dynamische Formular aus CSV)
 
 # LiveDemo
 [live-demo](https://bake09.github.io/demo-udg-challenges)
