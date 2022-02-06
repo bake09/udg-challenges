@@ -42,8 +42,8 @@ Folgende Komponenten müssen lokal installiert sein:
 Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
 
 ```console
-$ git clone <linktorepository> udg-probeaufgabe
-$ cd udg-probeaufgabe
+$ git clone https://github.com/bake09/udg-challenges.git udg-challenges
+$ cd udg-challenges
 $ npm install
 $ quasar dev
 ```
